@@ -41,4 +41,8 @@ If you say something that is found offensive, and you are called out on it, letâ
 * Ask for tips / help with avoiding making the offense in the future.
 * Apologize and ask forgiveness.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the alumni channels. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently. Please report any issues to <help@codepath.com>. 
+Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the alumni channels. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently. 
+
+**Reporting**
+
+Please report any issues, concerns or violations to `@mods` group on slack or directly to <contact@codepath.com>. 
