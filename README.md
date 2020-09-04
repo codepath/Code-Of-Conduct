@@ -58,4 +58,4 @@ Failing to follow the community guidelines as described in this document carries
 
 **Reporting**
 
-Please report any issues, concerns or violations to `@mods` group on slack or directly to <contact@codepath.com>. 
+Please report any issues, concerns or violations directly to <report@codepath.org> or anyone in the `@mods` group on Slack. 
